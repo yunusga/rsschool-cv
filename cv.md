@@ -18,3 +18,17 @@ Hi, i'm 32 years old. I have been working in IT since 2010. Whenever possible, i
 ## Tech skills
 
 JS/Node JS, PHP, MySQL, Linux (Ubuntu), Git, HTML, CSS.
+
+## Projects
+
+- PostCSS plugin - [PostCSS sort media queries](https://github.com/solversgroup/postcss-sort-media-queries)
+- PostCSS plugin - [PostCSS momentum scrolling](https://github.com/solversgroup/postcss-momentum-scrolling)
+- Static front-end builder based on Gulp - [Marmelad](https://github.com/yunusga/marmelad)
+
+## Education
+
+I graduated from Fergana branch of [TUIT](https://tuit.uz/en/fargona-filiali) with bachelor's degree.
+
+## English
+
+My English is very bad, I'm on A1 level.
